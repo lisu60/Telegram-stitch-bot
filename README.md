@@ -1,4 +1,4 @@
-#Telegram screenshot stitching bot
+# Telegram screenshot stitching bot
 
 This is the backend of a Telegram bot which stitches screenshots into long pictures for you. Check the bot [here](https://t.me/SStitcherBot).
 
